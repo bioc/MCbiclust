@@ -156,3 +156,9 @@
 # MCbiclust 0.99.46
 
 * Bug fixes involving NAs in gene expression matrices
+
+# MCbiclust 1.0.1
+
+* Changed title in vignette.
+
+
